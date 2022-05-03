@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78fb4861101b77848a18ec5ed6b7dbcd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitbox: {instanceID: 0}
+  - damageTextPrefab: {fileID: 3858523394638762535, guid: e7a4adf8c783f90439bb2892a0db74f9, type: 3}
+  - enemyInstance: {instanceID: 0}
+  - criticalTextPrefab: {fileID: 4070898679987998256, guid: fd555bcaa91d7d24d9279ae0feea8f21, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
